@@ -10,7 +10,7 @@
 
 #### 1. [STMIK INSAN PEMBANGUNAN](https://ipem.ac.id/) | SISTEM INFORMASI | Tangerang `2017-2021`
      -Sistem Informasi
- #### 2. [SMK N 1 PALASAH]() | OTOMOTIF | palasah Majalengka`2012-2015`
+ #### 2. [SMK N 1 PALASAH](https://smkn1palasah.sch.id/) | OTOMOTIF | palasah Majalengka`2012-2015`
    - Teknik Kendaraan Ringan
 
 ## Work Experience:

@@ -1,6 +1,6 @@
-# Hi there, I'm Vincent - [ENGKOS KOSTAMAN](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
+# Hi there, I'm Vincent - [ENGKOS KOSTAMAN]👋
 ## About me:
-- 🔭 I’m currently working at [jobkeer](https://www.huawei.com/en/?ic_medium=direct&ic_source=surlent)
+- 🔭 I’m currently working at [jobkeer]
 - 🌱 I’m currently learning Javascript and React and Golang
 - 👯 I’m looking to collaborate as Database mysql
 - 💬 Ask me about anything

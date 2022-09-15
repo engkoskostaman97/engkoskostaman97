@@ -1,6 +1,6 @@
 # Hi there, I'm Vincent - [ENGKOS KOSTAMAN]👋
 ## About me:
-- 🔭 I’m currently working at [jobkeer]
+- 🔭 I’m currently working at JOB SEEKERS
 - 🌱 I’m currently learning Javascript and React and Golang
 - 👯 I’m looking to collaborate as Database mysql
 - 💬 Ask me about anything

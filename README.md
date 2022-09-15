@@ -8,21 +8,14 @@
 
 ## Education:
 
-#### 1. [STMIK INSAN PEMBANGUNAN](https://www.ugm.ac.id) | Bachelor of Electrical Engineering | Yogyakarta `2016-2020`
+#### 1. [STMIK INSAN PEMBANGUNAN](https://ipem.ac.id/) | SISTEM INFORMASI | Tangerang `2017-2021`
      -Sistem Informasi
- #### 2. [SMk N 1 PALASAH](https://www.sman1kebumen.sch.id) | MIPA | Kebumen `2013-2016`
+ #### 2. [SMk N 1 PALASAH]() | OTOMOTIF | palasah Majalengka`2013-2016`
    - Teknik Kendaraan Ringan
 
 ## Work Experience:
-#### 1. [PT. Huawei Tech Investment](https://www.huawei.com) | Project Controller | Pontianak `Dec'2020 - Now`
-   - Integrate Accuracy Plan, Master Plan, HR Plan, and Recource Plan
-   - Responsible to improve and realize project delivery as timeline
-   - Create Automation using Python and VBA Excel for day-to-day routine
-#### 2. [PLN UP2D Purwokerto](https://portal.pln.co.id) | Student Intern | Purwokerto `2019-2019`
-   - Manage to update CAD of distribution lines using AutoCAD
-   - Manage to recap fault in distribution network
-   - Research on Maintenance of 20 kV Cubicle in Pemalang
----
+#### Fresh Graduate
+
 
 ### Languages and Tools:
 

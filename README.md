@@ -32,8 +32,8 @@
 ---
 ### Connect with me:
 
-[![website](./img/github-light.svg)](https://www.facebook.com/engkos.aelh#gh-light-mode-only)
-[![website](./img/github-dark.svg)](https://www.facebook.com/engkos.aelh#gh-dark-mode-only)
+[![website](./img/github-light.svg)](https://github.com/engkoskostaman97#gh-light-mode-only)
+[![website](./img/github-dark.svg)](https://github.com/engkoskostaman97#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/vincentwwidyan#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/vincentwwidyan#gh-dark-mode-only)

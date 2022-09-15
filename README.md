@@ -23,7 +23,7 @@
 [<img align="left" alt="Javascript" width="30px" src="https://www.logolynx.com/images/logolynx/s_b6/b6eac18f2577f07b92644a0e8f6fcb3b.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Visualcode" width="30px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="nodejs" width="35px" src="https://mpng.subpng.com/20180425/jrw/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84e2a4242.1423638015246930701731.jpg" style="padding-right:0px;" />][webdev]
-[<img align="left" alt="css" width="25px" src="https://img2.pngdownload.id/20180425/tze/kisspng-css3-cascading-style-sheets-logo-html-5ae0e587ba2f34.4486001815246882637626.jpg" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="css" width="35px" src="https://img2.pngdownload.id/20180425/tze/kisspng-css3-cascading-style-sheets-logo-html-5ae0e587ba2f34.4486001815246882637626.jpg" style="padding-right:10px;" />][webdev]
 
 <br />
 <br />

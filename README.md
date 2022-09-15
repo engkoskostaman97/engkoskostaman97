@@ -1,8 +1,7 @@
 # Hi there, I'm Vincent - ENGKOS KOSTAMAN👋
 ## About me:
 - 🔭 I’m currently working at JOB SEEKERS
-- 🌱 I’m currently learning Javascript and React and Golang
-- 👯 I’m looking to collaborate as Database mysql
+- 🌱 I’m currently learning  Javascript and nodejs and React and Golang
 - 💬 Ask me about anything
 - 📫 How to reach me: engkoskostaman759@gmail.com
 

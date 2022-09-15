@@ -1,4 +1,4 @@
-# Hi there, I'm Vincent - ENGKOS KOSTAMAN👋
+# Hi there, I'm  - ENGKOS KOSTAMAN👋
 ## About me:
 - 🔭 I’m JOB SEEKERS
 - 🌱 I’m currently learning  Javascript and nodejs and React and Golang

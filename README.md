@@ -22,7 +22,7 @@
 [<img align="left" alt="Golang" width="30px" src="https://academy.alterra.id/blog/wp-content/uploads/2021/07/golang-img.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Javascript" width="30px" src="https://www.logolynx.com/images/logolynx/s_b6/b6eac18f2577f07b92644a0e8f6fcb3b.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Visualcode" width="30px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Power BI" width="30px" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" style="padding-right:0px;" />][webdev]
+[<img align="left" alt="nodejs" width="30px" src="https://mpng.subpng.com/20180425/jrw/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84e2a4242.1423638015246930701731.jpg" style="padding-right:0px;" />][webdev]
 [<img align="left" alt="Tableau" width="50px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" style="padding-right:10px;" />][webdev]
 
 <br />

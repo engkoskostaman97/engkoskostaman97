@@ -1,4 +1,4 @@
-# Hi there, I'm  - ENGKOS KOSTAMAN👋
+# Hi there, I'm  - ENGKOS KOSTAMAN S.Kom
 ## About me:
 - 🔭 I’m JOB SEEKERS
 - 🌱 I’m currently learning  Javascript and nodejs and React and Golang
@@ -8,15 +8,15 @@
 ## Education:
 
 #### 1. [STMIK INSAN PEMBANGUNAN](https://ipem.ac.id/) | SISTEM INFORMASI | Tangerang `2017-2021`
-     -Sistem Informasi
+     -SISTEM INFORMASI
  #### 2. [SMKN 1 PALASAH](https://smkn1palasah.sch.id/) | OTOMOTIF | Palasah Majalengka`2012-2015`
    - Teknik Kendaraan Ringan
 
 ## Work Experience:
-#### Fresh Graduate Sarjana Komputer 2021/2022
+#### [Fresh Graduate Sarjana Komputer 2021/2022](https://ipem.ac.id/)
 #### [Bootcamp Dumbways Fullstack Development Indonesia 2022](https://dumbways.id/certificate?u=62c6cf38c106ac003bfd4219&t=r)
 #### [Dicoding Indonesia Web Fundamental](https://www.dicoding.com/certificates/QLZ987912X5D)
-#### [Codepolitan Indonesia Html and CSS] (https://www.codepolitan.com/c/BUHNZ4W/)
+#### [Codepolitan Indonesia Html and CSS](https://www.codepolitan.com/c/BUHNZ4W/)
 #### [Progate Indonesia Git and Github](https://progate.com/course_certificate/eadb18f4rh0n13)
 
 

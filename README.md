@@ -14,10 +14,10 @@
 
 ## Work Experience:
 #### Fresh Graduate Sarjana Komputer 2021/2022
-#### [Bootcamp Dumbways Indonesia 2022](https://dumbways.id/certificate?u=62c6cf38c106ac003bfd4219&t=r)
-#### Dicoding Indonesia Web Fundamental(https://www.dicoding.com/certificates/QLZ987912X5D)
-#### Codepolitan Indonesia Html and CSS (https://www.codepolitan.com/c/BUHNZ4W/)
-#### Progate Indonesia Git and Github(https://progate.com/course_certificate/eadb18f4rh0n13)
+#### [Bootcamp Dumbways Fullstack Development Indonesia 2022](https://dumbways.id/certificate?u=62c6cf38c106ac003bfd4219&t=r)
+#### [Dicoding Indonesia Web Fundamental](https://www.dicoding.com/certificates/QLZ987912X5D)
+#### [Codepolitan Indonesia Html and CSS] (https://www.codepolitan.com/c/BUHNZ4W/)
+#### [Progate Indonesia Git and Github](https://progate.com/course_certificate/eadb18f4rh0n13)
 
 
 ### Languages and Tools:

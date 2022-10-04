@@ -1,4 +1,4 @@
-# Hi there, I'm  - ENGKOS KOSTAMAN S.Kom
+# Hi there, I'm  - ENGKOS KOSTAMAN S.Kom💻
 ## About me:
 - 🔭 I’m JOB SEEKERS
 - 🌱 I’m currently learning  Javascript and React and React Native and Golang

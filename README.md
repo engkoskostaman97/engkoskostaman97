@@ -32,7 +32,7 @@
 [<img align="left" alt="Visualcode" width="30px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="react" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" style="padding-right:0px;" />][webdev]
 [<img align="left" alt="css" width="26px" src="https://e7.pngegg.com/pngimages/239/228/png-clipart-html-css3-cascading-style-sheets-logo-markup-language-digital-agency-miscellaneous-blue-thumbnail.png" style="padding-right:10px;margin-top:2px" />][webdev]
-[<img align="left" alt="laravel" width="80px" src="https://branditechture.agency/brand-logos/wp-content/uploads/wpdm-cache/Laravel-900x0.png" style="padding-right:10px;margin-top:2px" />][webdev]
+[<img align="left" alt="laravel" width="95px" src="https://branditechture.agency/brand-logos/wp-content/uploads/wpdm-cache/Laravel-900x0.png" style="padding-right:5px;margin-top:2px" />][webdev]
 
 <br />
 <br />

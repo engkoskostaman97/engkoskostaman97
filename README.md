@@ -6,6 +6,7 @@
 - 🧩 I’m currently learning  postgre sql and xampp and laragon , Postman and Swagger
 - 💬 Ask me about anything
 - 📫 How to reach me: engkoskostaman759@gmail.com
+- gift me : https://saweria.co/engkos97
 
 ## Education:
 

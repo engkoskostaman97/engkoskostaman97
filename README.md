@@ -1,8 +1,8 @@
 # Hi there, I'm  - ENGKOS KOSTAMAN S.Kom💻
 ## About me:
 - 🔭 I’m JOB SEEKERS
-- 🌱 I’m currently learning front-end  Javascript and React and React Native CLI and Flutter 
-- 🛸 I’m currently learning  backend Node Js and Laravel and Golang
+- 🌱 I’m currently learning front-end  Javascript and React and React Native CLI 
+- 🛸 I’m currently learning  backend Java Springboot and Golang
 - 🧩 I’m currently learning  postgre sql and xampp and laragon , Postman and Swagger
 - 💬 Ask me about anything
 - 📫 How to reach me: engkoskostaman759@gmail.com

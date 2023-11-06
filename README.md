@@ -1,9 +1,10 @@
 # Hi there, I'm  - ENGKOS KOSTAMAN S.Kom💻
 ## About me:
 - 🔭 I’m JOB SEEKERS
-- 🌱 I’m currently learning front-end  Javascript and React and React Native CLI 
-- 🛸 I’m currently learning  backend Java Springboot and Golang
-- 🧩 I’m currently learning  postgre sql and xampp and laragon , Postman and Swagger
+- 🌱 I’m currently learning front-end  Javascript and React js and React Native CLI 
+- 🛸 I’m currently learning  backend Java framework Springboot and Golang frammework gorilamux and Php framework Laravel
+- 🧩 I’m currently learning  Database postgre sql , mysql workbrench , xampp and laragon , Swagger, mongoDb for Checking in Postmant
+- 🧳  I’m currently learning FileZilla and MobaXtrem for deploy server to kubernetes and Docker 
 - 💬 Ask me about anything
 - 📫 How to reach me: engkoskostaman759@gmail.com
 - gift me : https://saweria.co/engkos97
@@ -11,7 +12,7 @@
 ## Education:
 
 #### 1. [STMIK INSAN PEMBANGUNAN](https://ipem.ac.id/) | SISTEM INFORMASI | Tangerang `2017-2021`
-     -SISTEM INFORMASI
+     - SISTEM INFORMASI
  #### 2. [SMKN 1 PALASAH](https://smkn1palasah.sch.id/) | OTOMOTIF | Palasah Majalengka`2012-2015`
    - Teknik Kendaraan Ringan
 

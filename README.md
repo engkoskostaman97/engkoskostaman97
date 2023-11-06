@@ -2,7 +2,7 @@
 ## About me:
 - 🔭 I’m JOB SEEKERS
 - 🌱 I’m currently learning front-end  Javascript and React js and React Native CLI 
-- 🛸 I’m currently learning  backend Java framework Springboot and Golang frammework gorilamux and Php framework Laravel
+- 🛸 I’m currently learning  backend Java Springboot and Golang and Php 
 - 🧩 I’m currently learning  Database postgre sql , mysql workbrench , xampp and laragon , Swagger, mongoDb for Checking in Postmant
 - 🧳  I’m currently learning FileZilla and MobaXtrem for deploy server to kubernetes and Docker 
 - 💬 Ask me about anything

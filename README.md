@@ -12,9 +12,9 @@
 ## Education:
 
 #### 1. [STMIK INSAN PEMBANGUNAN](https://ipem.ac.id/) | SISTEM INFORMASI | Tangerang `2017-2021`
-     - SISTEM INFORMASI
+  - SISTEM INFORMASI
  #### 2. [SMKN 1 PALASAH](https://smkn1palasah.sch.id/) | OTOMOTIF | Palasah Majalengka`2012-2015`
-   - Teknik Kendaraan Ringan
+ - Teknik Kendaraan Ringan
 
 ## Work Experience:
 #### [Fresh Graduate Sarjana Komputer 2021/2022](https://ipem.ac.id/)

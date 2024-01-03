@@ -23,6 +23,10 @@
 #### [Codepolitan Indonesia Html and CSS](https://www.codepolitan.com/c/BUHNZ4W/)
 #### [Progate Indonesia Git and Github](https://progate.com/course_certificate/eadb18f4rh0n13)
 
+## Lisensi and certificate:
+
+### [Java Kafka](https://www.udemy.com/certificate/UC-558754da-8592-4d97-95c3-1cb36ae20a91/)
+
 ## Portofolio
 #### [dumbflix](https://gregarious-blancmange-ce9db9.netlify.app/)
 #### Deploy Database Heroku And Deploy Frond End Netlify 

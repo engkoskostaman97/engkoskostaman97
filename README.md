@@ -26,6 +26,7 @@
 ## Lisensi and certificate:
 
 ### [Java Kafka](https://www.udemy.com/certificate/UC-558754da-8592-4d97-95c3-1cb36ae20a91/)
+### [Java fundamental](https://www.udemy.com/certificate/UC-498f45d5-3b22-427c-9426-3f8ef3ebc09c/)
 
 ## Portofolio
 #### [dumbflix](https://gregarious-blancmange-ce9db9.netlify.app/)

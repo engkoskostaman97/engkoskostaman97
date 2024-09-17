@@ -1,5 +1,7 @@
 # Hi there, I'm  - ENGKOS KOSTAMAN S.Kom💻
-## About me:
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<br>
 - 🔭 I’m JOB SEEKERS
 - 🌱 I’m currently learning front-end  Javascript and React js and React Native CLI 
 - 🛸 I’m currently learning  backend Java Springboot and Golang and Php 
